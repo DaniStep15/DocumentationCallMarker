@@ -1,0 +1,10 @@
+{
+  "name": "DocumentationCallMarker",
+  "version": "1.0.0",
+  "description": "Bilingual documentation for the MediWho CallMarker integration",
+  "main": "index.js",
+  "scripts": {
+    "build": "node generator/build.js callmarker_integration.html"
+  },
+  "private": true
+}
